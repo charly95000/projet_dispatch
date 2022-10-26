@@ -33,7 +33,7 @@ function App() {
  
   return (
     <>
-    <BrowserRouter>{console.log(logginInfo)}
+    <BrowserRouter>
     
       <Routes>
         <Route index element ={<Home />} />
