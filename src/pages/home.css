@@ -1,0 +1,29 @@
+.title{
+    height:100vh;
+    background-image: url('/public/images/Restaurant_La_Pajovic_Spécificités_Cuisine_Africaine.jpg');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+
+.title div{
+    margin-left:20px;
+    padding:15px;
+    width:40%;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.769);
+}
+
+.title p{
+    text-align: justify;
+}
+
+h1{
+    font-size: 70px;
+}
+
+.card-container{
+    padding : 40px;
+    display:flex;
+    flex-wrap:wrap
+}
